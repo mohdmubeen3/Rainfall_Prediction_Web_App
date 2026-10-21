@@ -172,16 +172,7 @@ It also displays the confidence score of the prediction.
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-- Home Page
-- Input Form
-- Prediction Result
-- Confidence Score
-
----
 
 ## 🔮 Future Improvements
 
@@ -206,8 +197,7 @@ Galgotias University
 GitHub:
 https://github.com/mohdmubeen3
 
-LinkedIn:
-(Add your LinkedIn profile here)
+
 
 ---
 
